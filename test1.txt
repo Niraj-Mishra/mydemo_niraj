@@ -1,1 +1,2 @@
-hi this is my first demo file. so i am happy.i am addind another line here.okey
+hi this is my first demo file. so i am happy.i am addind another line here.okey.
+somebody is working in master while i create feature-b branch
